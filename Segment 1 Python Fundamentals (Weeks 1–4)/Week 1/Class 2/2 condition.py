@@ -9,3 +9,14 @@ elif num1<num2: #elif is else if and this will be checked if the IF statement is
 else: #ELSE will run if IF statement and all ELIF statements are false. ELSE is TRUE if all others are FALSE
     print("They are equal")
 
+
+
+# match num1:           #python version 3.10 or newer only
+#     case "10":    
+#          print("10") #this will print if and only if the case is true
+#     case "20":
+#          print("20")
+#     case "30":
+#          print("30")
+#     case _:
+#         print("Default") #this will print if no case is true
