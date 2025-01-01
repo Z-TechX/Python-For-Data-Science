@@ -1,0 +1,2 @@
+Welcome to the introduction of file handling in Python.
+Let's learn how to append data.
