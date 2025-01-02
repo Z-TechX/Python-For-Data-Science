@@ -1,0 +1,51 @@
+ID,Name,Age,Country,Salary
+1,Grace,18.0,Australia,
+2,Grace,,India,
+3,David,,UK ,96940.71
+4,Alice,,Canada,31361.8
+5,Grace,47.0,USA,41156.69
+6,Eve,,IND,99954.1
+7,Ivan,22.0,,75427.96
+8,Frank,,USA,
+9,Eve,,IND,
+10,Ivan,54.0,IND,
+11,Ivan,,Australia,101025.11
+12,Eve,54.0,,36700.91
+13,Bob,47.0,,34224.44
+14,Ivan,,US,84651.77
+15,,,USA,
+16,Grace,,Canada,33121.1
+17,Bob,,India,61594.98
+18,Alice,24.0,UK,94878.93
+19,Frank,,IND,
+20,David,42.0,Australia,34973.73
+21,David,34.0,India,
+22,Grace,,Australia,71920.06
+23,Heidi,,UK ,
+24,,38.0,IND,
+25,Ivan,,Australia,
+26,Frank,,UK ,
+27,Eve,39.0,IND,
+28,David,37.0,USA,93211.26
+29,Frank,,Australia,
+30,Bob,25.0,,82816.32
+31,Heidi,,Australia,116633.82
+32,Frank,,UK ,111132.39
+33,Bob,,India,89626.33
+34,Alice,,US,51952.17
+35,Frank,,Canada,115567.38
+36,,,USA,
+37,Grace,27.0,Australia,84141.63
+38,Eve,36.0,USA,
+39,Heidi,,USA,
+40,David,31.0,UK ,104196.63
+41,Ivan,,UK,
+42,Charlie,,UK,
+43,Heidi,42.0,,
+44,Heidi,,IND,104497.51
+45,Eve,54.0,IND,80634.88
+46,Charlie,44.0,Australia,105803.52
+47,Eve,,US,
+48,,,US,112451.87
+49,Alice,56.0,USA,
+50,,21.0,IND,118383.97
